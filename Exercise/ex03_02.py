@@ -1,6 +1,11 @@
 # Exercise 3.2
 a = b = 7
-print('a =', a, '\\nb =', b)
+print('a =', a, '\\nb =', b) 
+
+# Nothing is wrong with this code. IF we want it to print the values of a and b on separate lines, we should use \n instead of \\n. 
+a = b = 7
+print('a =', a, '\nb =', b)
+
 
 
 ##########################################################################

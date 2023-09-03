@@ -8,6 +8,10 @@ for i in range(2):
 else:
     print('The loop terminated without executing the break')
 
+## if we enter -1 it break stament will be executed and loop is terminated.
+## if we enter any other value, the loop continues to the next iteration. 
+## After the for loop has completed all its iterations, the else clause is executed. 
+
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
 # Pearson Education, Inc. All Rights Reserved.                           #

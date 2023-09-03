@@ -4,6 +4,8 @@ for row in range(10):
         print('<' if row % 2 == 1 else '>', end='')
     print()
 
+    # This just prints the '>' and '<' characters.
+
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
 # Pearson Education, Inc. All Rights Reserved.                           #

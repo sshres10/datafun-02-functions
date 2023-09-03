@@ -1,8 +1,14 @@
 # Exercise 4.5
-def seconds_since_midnight(***, ***, ***):
-    hour_in_seconds = ***
-    minute_in_seconds = ***
-    return ***
+
+def seconds_since_midnight(hour, minute, second):
+    hour_in_seconds = hour * 3600
+    minute_in_seconds = minute * 60
+    return hour_in_seconds + minute_in_seconds + second
+
+print('the total calc is', seconds_since_midnight(13, 30, 45))
+
+""" we define the seconds_since_midnight function. 
+Then, we call the function with the arguments 13, 30, and 45, representing the time 1:30:45 PM."""
 
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #

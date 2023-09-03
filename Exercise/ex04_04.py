@@ -6,6 +6,11 @@ def mystery(x):
         y += value ** 2
 
     return y
+result = [1,2,3,4,5]
+print('the result is', mystery(result))
+
+""" If we pass in the list [1,2,3,4,5] into the mystery function, we will get the result of 55"""
+
 
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
