@@ -1,0 +1,13 @@
+2023-09-03 19:10:38,166.user_math_SushantaShrestha.INFO ==================================================
+2023-09-03 19:10:38,166.user_math_SushantaShrestha.INFO Today is 2023-09-03 at 07:10 PM
+2023-09-03 19:10:38,191.user_math_SushantaShrestha.INFO Running on: nt Windows 10
+2023-09-03 19:10:38,192.user_math_SushantaShrestha.INFO Python version:  3.11.4
+2023-09-03 19:10:38,192.user_math_SushantaShrestha.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 19:10:38,193.user_math_SushantaShrestha.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 19:10:38,193.user_math_SushantaShrestha.INFO ==================================================
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO Explore some functions in the math module
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO math.comb(5,1) = 5
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO math.perm(5,1) = 5
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO Total goals scored: 20
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO Total games played: 15
+2023-09-03 19:10:51,485.user_math_SushantaShrestha.INFO Average goals per game: 1

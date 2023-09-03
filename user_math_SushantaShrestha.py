@@ -6,8 +6,8 @@ import math
 import logging
 
 # Configure logging
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger(__name__)
+from util_logger import setup_logger
+logger, logname = setup_logger(__file__)
 
 def calculate_average_goals(total_goals, total_games):
     """
@@ -38,3 +38,8 @@ print(f"The average goals per game is: {average_goals}")
 logger.info("Explore some functions in the math module")
 logger.info(f"math.comb(5,1) = {math.comb(5,1)}")  # Calling math.comb function
 logger.info(f"math.perm(5,1) = {math.perm(5,1)}")
+
+# Log the user input and calculated result
+logger.info(f"Total goals scored: {total_goals_scored}")
+logger.info(f"Total games played: {total_games_played}")
+logger.info(f"Average goals per game: {average_goals}")
