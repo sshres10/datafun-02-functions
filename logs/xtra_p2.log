@@ -1,0 +1,28 @@
+2023-09-03 15:36:25,183.xtra_p2.INFO ==================================================
+2023-09-03 15:36:25,186.xtra_p2.INFO Today is 2023-09-03 at 03:36 PM
+2023-09-03 15:36:25,356.xtra_p2.INFO Running on: nt Windows 10
+2023-09-03 15:36:25,357.xtra_p2.INFO Python version:  3.11.4
+2023-09-03 15:36:25,359.xtra_p2.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 15:36:25,360.xtra_p2.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 15:36:25,361.xtra_p2.INFO ==================================================
+2023-09-03 15:36:25,476.xtra_p2.INFO Calling add with arguments a=50 and b=50
+2023-09-03 15:36:25,478.xtra_p2.INFO Result of add(50, 50) is 100
+2023-09-03 15:36:25,487.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,489.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,495.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,499.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,500.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,502.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,504.xtra_p2.INFO ===========================================================
+2023-09-03 15:36:25,518.xtra_p2.INFO Running doctest.testmod() function to unit test our code
+2023-09-03 15:36:25,541.xtra_p2.INFO ===========================================================
+2023-09-03 15:36:25,555.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,555.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,557.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,558.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,559.xtra_p2.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 15:36:25,559.xtra_p2.INFO RETURNING leh
+2023-09-03 15:36:25,568.xtra_p2.INFO Calling add with arguments a=50 and b=50
+2023-09-03 15:36:25,569.xtra_p2.INFO Result of add(50, 50) is 100
+2023-09-03 15:36:25,574.xtra_p2.ERROR 7 tests failed!
+2023-09-03 15:36:25,576.xtra_p2.INFO Script complete. More info in the log file.

@@ -1,0 +1,62 @@
+2023-09-03 17:58:20,086.doctest_fun.INFO ==================================================
+2023-09-03 17:58:20,088.doctest_fun.INFO Today is 2023-09-03 at 05:58 PM
+2023-09-03 17:58:20,203.doctest_fun.INFO Running on: nt Windows 10
+2023-09-03 17:58:20,204.doctest_fun.INFO Python version:  3.11.4
+2023-09-03 17:58:20,205.doctest_fun.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 17:58:20,206.doctest_fun.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 17:58:20,208.doctest_fun.INFO ==================================================
+2023-09-03 17:58:20,218.doctest_fun.INFO CALLING add_two(1,2)
+2023-09-03 17:58:20,219.doctest_fun.INFO RETURNING 3
+2023-09-03 17:58:20,220.doctest_fun.INFO CALLING add_two(hello, world)
+2023-09-03 17:58:20,222.doctest_fun.INFO RETURNING hello world
+2023-09-03 17:58:20,283.doctest_fun.INFO CALLING add_two(1,2)
+2023-09-03 17:58:20,285.doctest_fun.INFO RETURNING 3
+2023-09-03 17:58:20,289.doctest_fun.INFO CALLING add_two(5,5)
+2023-09-03 17:58:20,293.doctest_fun.INFO RETURNING 10
+2023-09-03 17:58:20,293.doctest_fun.INFO CALLING add_triangle_list([5, 5, 5])
+2023-09-03 17:58:20,293.doctest_fun.INFO RETURNING 15
+2023-09-03 17:58:20,293.doctest_fun.INFO CALLING add_any_using_args((2,))
+2023-09-03 17:58:20,293.doctest_fun.INFO RETURNING 2
+2023-09-03 17:58:20,293.doctest_fun.INFO CALLING add_any_using_args((2, 2))
+2023-09-03 17:58:20,299.doctest_fun.INFO RETURNING 4
+2023-09-03 17:58:20,300.doctest_fun.INFO CALLING add_any_using_args((2, 2, 2))
+2023-09-03 17:58:20,302.doctest_fun.INFO RETURNING 6
+2023-09-03 17:58:20,304.doctest_fun.INFO CALLING add_any_using_args((2, 2, 2, 2))
+2023-09-03 17:58:20,307.doctest_fun.INFO RETURNING 8
+2023-09-03 17:58:20,307.doctest_fun.INFO CALLING add_any_with_keywords({'a': 8, 'b': 2})
+2023-09-03 17:58:20,309.doctest_fun.INFO RETURNING 10
+2023-09-03 17:58:20,309.doctest_fun.INFO CALLING add_any_with_keywords({'first': 8, 'second': 2, 'third': 3})
+2023-09-03 17:58:20,312.doctest_fun.INFO RETURNING 13
+2023-09-03 17:58:20,312.doctest_fun.INFO CALLING add_any_with_keywords({'only': 8})
+2023-09-03 17:58:20,312.doctest_fun.INFO RETURNING 8
+2023-09-03 17:58:20,312.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-03 17:58:20,318.doctest_fun.INFO RETURNING bearcat
+2023-09-03 17:58:20,320.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-03 17:58:20,322.doctest_fun.INFO RETURNING tacraeb
+2023-09-03 17:58:20,323.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 17:58:20,323.doctest_fun.INFO RETURNING olleh
+2023-09-03 17:58:20,323.doctest_fun.INFO ===========================================================
+2023-09-03 17:58:20,323.doctest_fun.INFO Running doctest.testmod() function to unit test our code
+2023-09-03 17:58:20,323.doctest_fun.INFO ===========================================================
+2023-09-03 17:58:20,336.doctest_fun.INFO CALLING add_two(1,2)
+2023-09-03 17:58:20,338.doctest_fun.INFO RETURNING 3
+2023-09-03 17:58:20,339.doctest_fun.INFO CALLING add_two(hello, world)
+2023-09-03 17:58:20,340.doctest_fun.INFO RETURNING hello world
+2023-09-03 17:58:20,340.doctest_fun.INFO CALLING add_triangle_list([3, 4, 5])
+2023-09-03 17:58:20,340.doctest_fun.INFO RETURNING 12
+2023-09-03 17:58:20,345.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=False)
+2023-09-03 17:58:20,345.doctest_fun.INFO RETURNING bearcat
+2023-09-03 17:58:20,345.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=bearcat, reverse=True)
+2023-09-03 17:58:20,345.doctest_fun.INFO RETURNING tacraeb
+2023-09-03 17:58:20,350.doctest_fun.INFO CALLING transform_using_keyword_args_with_default_values(input=hello, reverse=True)
+2023-09-03 17:58:20,355.doctest_fun.INFO RETURNING olleh
+2023-09-03 17:58:20,360.doctest_fun.INFO CALLING add_any_using_args((1, 1, 1, 1, 1, 1, 1, 1))
+2023-09-03 17:58:20,362.doctest_fun.INFO RETURNING 8
+2023-09-03 17:58:20,364.doctest_fun.INFO CALLING add_any_with_keywords({'a': 1, 'b': 2})
+2023-09-03 17:58:20,366.doctest_fun.INFO RETURNING 3
+2023-09-03 17:58:20,380.doctest_fun.INFO CALLING add_triangle_list([3, 4, 5])
+2023-09-03 17:58:20,381.doctest_fun.INFO RETURNING 12
+2023-09-03 17:58:20,400.doctest_fun.INFO CALLING add_two(1,2)
+2023-09-03 17:58:20,402.doctest_fun.INFO RETURNING 3
+2023-09-03 17:58:20,416.doctest_fun.INFO All tests passed!
+2023-09-03 17:58:20,418.doctest_fun.INFO Script complete. More info in the log file.

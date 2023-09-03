@@ -61,17 +61,27 @@ logger, logname = setup_logger(__file__)
 
 
 def add_two(first, second):
-    """Return the sum of any two arguments."""
+    """Return the sum of any two arguments.
+    >>> add_two(1,2)
+    3
+    """
     logger.info(f"CALLING add_two({first},{second})")
 
     sum = first + second
 
     logger.info(f"RETURNING {sum}")
     return sum
+if __name__ == "__main__":
+    doctest.testmod()
+
+
 
 
 def add_triangle_list(list_triangle):
-    """Return the sum of three numbers in a list."""
+    """Return the sum of three numbers in a list.
+    >>> add_triangle_list( [3,4,5] )
+    12
+    """
     logger.info(f"CALLING add_triangle_list({list_triangle})")
 
     sum = 0

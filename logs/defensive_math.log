@@ -1,0 +1,61 @@
+2023-09-03 16:41:03,293.defensive_math.INFO ==================================================
+2023-09-03 16:41:03,294.defensive_math.INFO Today is 2023-09-03 at 04:41 PM
+2023-09-03 16:41:03,389.defensive_math.INFO Running on: nt Windows 10
+2023-09-03 16:41:03,390.defensive_math.INFO Python version:  3.11.4
+2023-09-03 16:41:03,391.defensive_math.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 16:41:03,392.defensive_math.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 16:41:03,393.defensive_math.INFO ==================================================
+2023-09-03 16:41:03,406.defensive_math.INFO Explore some functions in the math module
+2023-09-03 16:41:03,407.defensive_math.INFO math.comb(5,1) = 5
+2023-09-03 16:41:03,408.defensive_math.INFO math.perm(5,1) = 5
+2023-09-03 16:41:03,408.defensive_math.INFO math.comb(5,3) = 10
+2023-09-03 16:41:03,409.defensive_math.INFO math.perm(5,3) = 60
+2023-09-03 16:41:03,410.defensive_math.INFO math.pi = 3.141592653589793
+2023-09-03 16:41:03,411.defensive_math.INFO math.degrees(2 * math.pi) = 360.0
+2023-09-03 16:41:03,412.defensive_math.INFO math.radians(180)         = 3.141592653589793
+2023-09-03 16:41:03,413.defensive_math.INFO 
+2023-09-03 16:41:03,413.defensive_math.INFO TRY: Call get_circle_area_given_radius() function with a different values.
+2023-09-03 16:41:03,414.defensive_math.INFO CALLING get_circle_area(5)
+2023-09-03 16:41:03,415.defensive_math.INFO The circle area is 31.41592653589793
+2023-09-03 16:41:03,416.defensive_math.INFO CALLING get_circle_area(-16)
+2023-09-03 16:41:03,416.defensive_math.INFO The circle area is -100.53096491487338
+2023-09-03 16:41:03,417.defensive_math.INFO CALLING get_circle_area(inf)
+2023-09-03 16:41:03,418.defensive_math.INFO The circle area is inf
+2023-09-03 16:41:03,419.defensive_math.INFO CALLING get_circle_area(five)
+2023-09-03 16:41:03,419.defensive_math.ERROR Error: can't multiply sequence by non-int of type 'float'
+2023-09-03 16:41:03,420.defensive_math.INFO 
+2023-09-03 16:41:03,422.defensive_math.INFO TRY: Call get_circle_areas_given_list() function with a list of GOOD values
+2023-09-03 16:41:03,422.defensive_math.INFO CALLING get_circle_area([5, 10, 25, 30, 45, 50])
+2023-09-03 16:41:03,423.defensive_math.INFO CALLING get_circle_area(5)
+2023-09-03 16:41:03,424.defensive_math.INFO The circle area is 31.41592653589793
+2023-09-03 16:41:03,424.defensive_math.INFO r = 5, area=31.41592653589793
+2023-09-03 16:41:03,425.defensive_math.INFO CALLING get_circle_area(10)
+2023-09-03 16:41:03,426.defensive_math.INFO The circle area is 62.83185307179586
+2023-09-03 16:41:03,427.defensive_math.INFO r = 10, area=62.83185307179586
+2023-09-03 16:41:03,428.defensive_math.INFO CALLING get_circle_area(25)
+2023-09-03 16:41:03,429.defensive_math.INFO The circle area is 157.07963267948966
+2023-09-03 16:41:03,430.defensive_math.INFO r = 25, area=157.07963267948966
+2023-09-03 16:41:03,430.defensive_math.INFO CALLING get_circle_area(30)
+2023-09-03 16:41:03,431.defensive_math.INFO The circle area is 188.49555921538757
+2023-09-03 16:41:03,432.defensive_math.INFO r = 30, area=188.49555921538757
+2023-09-03 16:41:03,433.defensive_math.INFO CALLING get_circle_area(45)
+2023-09-03 16:41:03,434.defensive_math.INFO The circle area is 282.7433388230814
+2023-09-03 16:41:03,434.defensive_math.INFO r = 45, area=282.7433388230814
+2023-09-03 16:41:03,435.defensive_math.INFO CALLING get_circle_area(50)
+2023-09-03 16:41:03,436.defensive_math.INFO The circle area is 314.1592653589793
+2023-09-03 16:41:03,437.defensive_math.INFO r = 50, area=314.1592653589793
+2023-09-03 16:41:03,438.defensive_math.INFO 
+2023-09-03 16:41:03,439.defensive_math.INFO TRY: Call get_circle_areas_given_list() function with a list that may include BAD values
+2023-09-03 16:41:03,440.defensive_math.INFO CALLING get_circle_area([-5, 0, inf, '30'])
+2023-09-03 16:41:03,441.defensive_math.INFO CALLING get_circle_area(-5)
+2023-09-03 16:41:03,442.defensive_math.INFO The circle area is -31.41592653589793
+2023-09-03 16:41:03,443.defensive_math.INFO r = -5, area=-31.41592653589793
+2023-09-03 16:41:03,444.defensive_math.INFO CALLING get_circle_area(0)
+2023-09-03 16:41:03,445.defensive_math.INFO The circle area is 0.0
+2023-09-03 16:41:03,446.defensive_math.INFO r = 0, area=0.0
+2023-09-03 16:41:03,447.defensive_math.INFO CALLING get_circle_area(inf)
+2023-09-03 16:41:03,448.defensive_math.INFO The circle area is inf
+2023-09-03 16:41:03,449.defensive_math.INFO r = inf, area=inf
+2023-09-03 16:41:03,450.defensive_math.INFO CALLING get_circle_area(30)
+2023-09-03 16:41:03,451.defensive_math.ERROR Error: can't multiply sequence by non-int of type 'float'
+2023-09-03 16:41:03,452.defensive_math.INFO r = 30, area=None

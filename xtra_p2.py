@@ -13,6 +13,7 @@ Log the result of each function just before you return the result
 >>> sum_two(1,2)
 3
 
+
 >>> sum_two("hello"," world")
 'hello world'
 
@@ -38,19 +39,39 @@ Log the result of each function just before you return the result
 """
 
 import doctest
-
 from util_logger import setup_logger
+
 logger, logname = setup_logger(__file__)
 
 # TODO: Add functions to get the unit tests to pass 
-# TODO: Log each time the function is called (along with its arguments)
-# TODO: Log the result of each function just before you return the result
-
-
+def add(a, b):
+    """
+    This function adds two numbers and returns the result.
+    
+    >>> add(50,50)
+    100
+    """
+    # Log each time the function is called (along with its arguments)
+    logger.info(f'Calling add with arguments a={a} and b={b}')
+    
+    # Calculate
+    result = a + b
+    
+    # Log the result of each function just before you return the result
+    logger.info(f'Result of add({a}, {b}) is {result}')
+    
+    return result
+    
+    # Log the result of each function just before you return the result
+    logger.info(f'Result of add({a}, {b}) is {result}')
+    
+    return result
+if __name__ == "__main__":
+    doctest.testmod()
 
 
 # TODO: Fix this function to get just the first 3 letters (possibly reversed)
-def transform_using_keyword_args_with_default_values(input="bearcat", reverse=False):
+def transform_using_keyword_args_with_default_values(input="hello", reverse=True):
     '''Return a string with just the first 3 letters of input string. 
     If reverse is True, reverse the first 3 letters. 
     If reverse is omitted or False, return the first 3 letters reversed. 
@@ -61,7 +82,13 @@ def transform_using_keyword_args_with_default_values(input="bearcat", reverse=Fa
     s = f"CALLING transform_using_keyword_args_with_default_values(input={input}, reverse={reverse})"
     logger.info(s)
 
-    result = input
+   # Get the first 3 letters of the input by doing the following
+   
+    result = input[:3]
+
+    # Reverse the first 3 letters
+    if reverse:
+        result = result[::-1]
 
     logger.info(f"RETURNING {result}")
     return result
