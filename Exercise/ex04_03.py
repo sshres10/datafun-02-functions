@@ -5,6 +5,15 @@ def cube(x):
 
 print('The cube of 2 is', cube(2))
 
+## The problem is it does not return any value. If a function doesn't have a return satement, it returns none by default 
+
+def cube(x):
+    """Calculate the cube of x."""
+    return x ** 3
+
+print('The cube of 2 is', cube(2))
+
+
 ##########################################################################
 # (C) Copyright 2019 by Deitel & Associates, Inc. and                    #
 # Pearson Education, Inc. All Rights Reserved.                           #
