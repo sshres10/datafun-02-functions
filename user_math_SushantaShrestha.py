@@ -3,7 +3,7 @@ Purpose: Calculate basic statistics of a soccer match.
 
 """
 import math
-import logging
+
 
 # Configure logging
 from util_logger import setup_logger
