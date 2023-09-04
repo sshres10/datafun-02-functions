@@ -1,21 +1,21 @@
-2023-09-03 20:03:47,006.user_easy_stats_SushantaShrestha.INFO ==================================================
-2023-09-03 20:03:47,007.user_easy_stats_SushantaShrestha.INFO Today is 2023-09-03 at 08:03 PM
-2023-09-03 20:03:47,028.user_easy_stats_SushantaShrestha.INFO Running on: nt Windows 10
-2023-09-03 20:03:47,028.user_easy_stats_SushantaShrestha.INFO Python version:  3.11.4
-2023-09-03 20:03:47,028.user_easy_stats_SushantaShrestha.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
-2023-09-03 20:03:47,028.user_easy_stats_SushantaShrestha.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
-2023-09-03 20:03:47,028.user_easy_stats_SushantaShrestha.INFO ==================================================
-2023-09-03 20:03:47,030.user_easy_stats_SushantaShrestha.INFO Mean: 25
-2023-09-03 20:03:47,031.user_easy_stats_SushantaShrestha.INFO Median: 25
-2023-09-03 20:03:47,031.user_easy_stats_SushantaShrestha.INFO Mode: 10
-2023-09-03 20:03:47,031.user_easy_stats_SushantaShrestha.INFO Variance: 116.67
-2023-09-03 20:03:47,032.user_easy_stats_SushantaShrestha.INFO Standard Deviation: 10.8
-2023-09-03 20:03:47,032.user_easy_stats_SushantaShrestha.INFO Smallest: 10
-2023-09-03 20:03:47,032.user_easy_stats_SushantaShrestha.INFO Largest: 40
-2023-09-03 20:03:47,032.user_easy_stats_SushantaShrestha.INFO Mean: 8
-2023-09-03 20:03:47,032.user_easy_stats_SushantaShrestha.INFO Median: 8
-2023-09-03 20:03:47,033.user_easy_stats_SushantaShrestha.INFO Mode: 2
-2023-09-03 20:03:47,033.user_easy_stats_SushantaShrestha.INFO Variance: 21.67
-2023-09-03 20:03:47,033.user_easy_stats_SushantaShrestha.INFO Standard Deviation: 4.65
-2023-09-03 20:03:47,033.user_easy_stats_SushantaShrestha.INFO Smallest: 2
-2023-09-03 20:03:47,033.user_easy_stats_SushantaShrestha.INFO Largest: 15
+2023-09-03 21:33:33,856.user_easy_stats_SushantaShrestha.INFO ==================================================
+2023-09-03 21:33:33,858.user_easy_stats_SushantaShrestha.INFO Today is 2023-09-03 at 09:33 PM
+2023-09-03 21:33:33,916.user_easy_stats_SushantaShrestha.INFO Running on: nt Windows 10
+2023-09-03 21:33:33,916.user_easy_stats_SushantaShrestha.INFO Python version:  3.11.4
+2023-09-03 21:33:33,917.user_easy_stats_SushantaShrestha.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 21:33:33,918.user_easy_stats_SushantaShrestha.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 21:33:33,918.user_easy_stats_SushantaShrestha.INFO ==================================================
+2023-09-03 21:33:33,922.user_easy_stats_SushantaShrestha.INFO Mean: 25
+2023-09-03 21:33:33,923.user_easy_stats_SushantaShrestha.INFO Median: 25
+2023-09-03 21:33:33,923.user_easy_stats_SushantaShrestha.INFO Mode: 10
+2023-09-03 21:33:33,924.user_easy_stats_SushantaShrestha.INFO Variance: 116.67
+2023-09-03 21:33:33,925.user_easy_stats_SushantaShrestha.INFO Standard Deviation: 10.8
+2023-09-03 21:33:33,925.user_easy_stats_SushantaShrestha.INFO Smallest: 10
+2023-09-03 21:33:33,926.user_easy_stats_SushantaShrestha.INFO Largest: 40
+2023-09-03 21:33:33,927.user_easy_stats_SushantaShrestha.INFO Mean: 8
+2023-09-03 21:33:33,927.user_easy_stats_SushantaShrestha.INFO Median: 8
+2023-09-03 21:33:33,928.user_easy_stats_SushantaShrestha.INFO Mode: 2
+2023-09-03 21:33:33,929.user_easy_stats_SushantaShrestha.INFO Variance: 21.67
+2023-09-03 21:33:33,929.user_easy_stats_SushantaShrestha.INFO Standard Deviation: 4.65
+2023-09-03 21:33:33,930.user_easy_stats_SushantaShrestha.INFO Smallest: 2
+2023-09-03 21:33:33,930.user_easy_stats_SushantaShrestha.INFO Largest: 15
