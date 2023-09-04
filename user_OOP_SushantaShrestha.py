@@ -1,5 +1,6 @@
-""" Purpose: cerPerformanceSeries class that inherits from NumericSeries and adds attributes and methods specific
-    to soccer performance data,
+""" Purpose: 
+Create a class that inherits everything from NumericSeries and adds
+attributes and methods to soccer performance data.
 """
 
 from numeric_series import NumericSeries  # Import the base class

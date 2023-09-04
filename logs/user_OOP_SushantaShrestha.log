@@ -1,0 +1,14 @@
+2023-09-03 21:02:56,427.user_OOP_SushantaShrestha.INFO ==================================================
+2023-09-03 21:02:56,427.user_OOP_SushantaShrestha.INFO Today is 2023-09-03 at 09:02 PM
+2023-09-03 21:02:56,428.user_OOP_SushantaShrestha.INFO Running on: nt Windows 10
+2023-09-03 21:02:56,428.user_OOP_SushantaShrestha.INFO Python version:  3.11.4
+2023-09-03 21:02:56,428.user_OOP_SushantaShrestha.INFO Python path: C:\Users\sshre\AppData\Local\Programs\Python\Python311
+2023-09-03 21:02:56,428.user_OOP_SushantaShrestha.INFO Working dir: C:\Users\sshre\OneDrive\Desktop\FOLDER\datafun-02-functions-1
+2023-09-03 21:02:56,429.user_OOP_SushantaShrestha.INFO ==================================================
+2023-09-03 21:02:56,430.user_OOP_SushantaShrestha.INFO Created Soccer Goals Scored Series: SoccerPerformanceSeries for Team: Team A, name=Goals Scored, units=Goals, 6 data points: [2, 3, 1, 4, 2, 3]
+2023-09-03 21:02:56,430.user_OOP_SushantaShrestha.INFO Created Soccer Games Played Series: SoccerPerformanceSeries for Team: Team A, name=Games Played, units=Games, 6 data points: [5, 4, 4, 6, 5, 6]
+2023-09-03 21:02:56,430.user_OOP_SushantaShrestha.INFO Team: Team A
+2023-09-03 21:02:56,430.user_OOP_SushantaShrestha.INFO Total Goals Scored: 15
+2023-09-03 21:02:56,431.user_OOP_SushantaShrestha.INFO Total Games Played: 30
+2023-09-03 21:02:56,431.user_OOP_SushantaShrestha.INFO Average Goals Scored per Game: 2.5
+2023-09-03 21:02:56,431.user_OOP_SushantaShrestha.INFO Average Games Played per Season: 5.0
